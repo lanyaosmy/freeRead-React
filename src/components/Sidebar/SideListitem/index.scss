@@ -1,0 +1,24 @@
+.hf-right-listitem{
+    display: flex;
+    padding: 10px 20px;
+    .content{
+        display:flex;
+        flex-direction: column;
+        margin-left: 20px;
+    }
+    .intro{
+        font-size: 14px;
+        color:#3F51B5;
+    }
+    .title{
+        font-size: 14px;
+        color:#259B24;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+        cursor: pointer;
+    }
+    .title:hover{
+        color:rgb(16, 66, 15);
+    }
+}

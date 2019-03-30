@@ -1,0 +1,26 @@
+.tag-search{
+    margin-bottom: 10px;
+    display:flex;
+}
+.tag-container{
+    width: 50%;
+    padding: 10px 20px;
+}
+.tag-searchtag{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.tag-list{
+    display: flex;
+    align-items: center;
+    padding:5px 20px;
+    .tag-icon{
+        font-size: 14px;
+        color: rgb(130, 45, 141);
+        margin-right: 10px;
+    }
+    .tag-info{
+        margin-right: 20px;
+    }
+}

@@ -1,0 +1,25 @@
+.login-form {
+    margin-top: 20px;
+    width: 70%;
+    .ant-input{
+      height: 42px;
+    }
+}
+.login-form-forgot {
+    float: right;
+}
+.login-form-button {
+    background: #8BC34A;
+    border-color: #8BC34A;
+}
+
+.login-form-button:hover,.login-form-button:active,.login-form-button:focus{
+  background: rgb(58, 82, 30);
+  color: #fff;
+  border-color: rgb(58, 82, 30);
+}
+
+.long-button{
+  width: 100%;
+}
+

@@ -1,0 +1,43 @@
+.detail-container{
+    width:100%;
+}
+.detail-author{
+    display: flex;
+}
+.detail-top{
+    width:100%;
+    display: flex;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+.detail-content{
+    width:100%;
+}
+.detail-info{
+    margin-left: 20px;
+}
+
+.detail-userintro{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.detail-action{
+    display: flex;
+    align-items: flex-end;
+}
+.detail-title{
+    font-size: 18px;
+    color: #259B24;
+    font-weight: 500;
+}
+
+.detail-content{
+    padding: 20px 0px;
+}
+
+.detail-reply{
+    display: flex;
+    margin:10px 0px;
+}

@@ -1,0 +1,24 @@
+.per-container{
+    width:100%;
+    
+}
+
+.per-top{
+    width:100%;
+    display: flex;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+.per-content{
+    width:100%;
+}
+.per-info{
+    margin-left: 20px;
+}
+
+.per-userintro{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
